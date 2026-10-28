@@ -1,0 +1,11 @@
+# Third-party and device-specific files are never committed
+*.img
+*.zip
+*.mbn
+*.bin
+*.exe
+*.dll
+*.apk
+unlock.code*
+cuber
+backup/
