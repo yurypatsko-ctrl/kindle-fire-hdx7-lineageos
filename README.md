@@ -143,3 +143,8 @@ Language: Settings → Languages → Add a language → move it to the top (cann
 * [LineageOS 14.1 for apollo/thor](https://xdaforums.com/t/rom-apollo-thor-lineage-14-1-17-mar-2022.4398657/)
 * [TWRP for thor/apollo](https://xdaforums.com/t/recovery-unlocked-bl-twrp-3-5-0_9-1.3322547/)
 * [Connecting adb to Fire tablets (Amazon)](https://developer.amazon.com/docs/fire-tablets/connecting-adb-to-device.html)
+
+## License
+The scripts and guides in this repository are released under the [MIT License](LICENSE).
+Third-party files mentioned above (Amazon aboot, TWRP, LineageOS, Open GApps, dd, cuber) are not part of this
+repository and keep their own licenses.

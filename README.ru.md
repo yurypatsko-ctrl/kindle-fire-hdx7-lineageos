@@ -140,3 +140,8 @@ pm disable-user --user 0 <пакет>         # заставки, egg, developme
 * [LineageOS 14.1 для apollo/thor](https://xdaforums.com/t/rom-apollo-thor-lineage-14-1-17-mar-2022.4398657/)
 * [TWRP для thor/apollo](https://xdaforums.com/t/recovery-unlocked-bl-twrp-3-5-0_9-1.3322547/)
 * [Подключение adb к Fire (Amazon)](https://developer.amazon.com/docs/fire-tablets/connecting-adb-to-device.html)
+
+## Лицензия
+Скрипты и инструкции из этого репозитория распространяются по [лицензии MIT](LICENSE).
+Упомянутые выше сторонние файлы (aboot Amazon, TWRP, LineageOS, Open GApps, dd, cuber) в репозиторий не входят
+и остаются под своими лицензиями.
