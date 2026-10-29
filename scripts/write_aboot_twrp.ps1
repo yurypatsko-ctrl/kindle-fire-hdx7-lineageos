@@ -85,4 +85,4 @@ Test-PartitionHead $t.Disk.Number 18 { param($h) [Text.Encoding]::ASCII.GetStrin
 Test-PartitionHead $t.Disk.Number 6 { param($h) -not ($h | Where-Object { $_ -ne 0 -and $_ -ne 255 }) } 'the erased aboot'
 Write-Partition $t.Disk.Number 6 $t.Aboot.Size $aboot
 Write-Partition $t.Disk.Number 18 $t.Recovery.Size $twrp
-Write-Host "`nDone. Do NOT format anything Windows offers. Tell Claude it is finished." -ForegroundColor Cyan
+Write-Host "`nDone. Do NOT format anything Windows offers. Hold Power to reboot into fastboot." -ForegroundColor Cyan
